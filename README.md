@@ -1,6 +1,7 @@
 # CIFAR10-Classification-and-BatchNorm-Analysis
 
 **Neural Network and Deep Learning — Project 2**
+
 **Author:** Huang Jichuan
 
 This repository contains my implementation and experimental analysis for Project 2 of *Neural Network and Deep Learning*. The project has two main parts:
